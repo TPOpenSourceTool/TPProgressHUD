@@ -1,0 +1,6 @@
+framework module TPProgressHUD {
+  umbrella header "TPProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
